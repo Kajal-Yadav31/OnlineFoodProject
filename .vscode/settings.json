@@ -19,5 +19,17 @@
         "titleBar.inactiveForeground": "#e7e7e799"
     },
     "peacock.color": "#007fff",
-    "python.pythonPath": "restapi\\Scripts\\python.exe"
+    "python.pythonPath": "restapi\\Scripts\\python.exe",
+    "[django-html]": {
+        "editor.formatOnSave": false,
+        "editor.defaultFormatter": null
+    },
+    "[html]": {
+        "editor.formatOnSave": true
+    },
+    "emmet.includeLanguages": {
+        "django-html": "html"
+    }
+
 }
+
